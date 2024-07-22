@@ -1,0 +1,16 @@
+D:\Documents\luizmelgo-dlmelgo-patch-1\luizmelgo-dlmelgo-patch-1\luizmelgo-master\sysarch\src\main\java\com\melgo\sysarch\config\MongoConfig.java
+D:\Documents\luizmelgo-dlmelgo-patch-1\luizmelgo-dlmelgo-patch-1\luizmelgo-master\sysarch\src\main\java\com\melgo\sysarch\config\OpenApiConfig.java
+D:\Documents\luizmelgo-dlmelgo-patch-1\luizmelgo-dlmelgo-patch-1\luizmelgo-master\sysarch\src\main\java\com\melgo\sysarch\dto\LoginRequest.java
+D:\Documents\luizmelgo-dlmelgo-patch-1\luizmelgo-dlmelgo-patch-1\luizmelgo-master\sysarch\src\main\java\com\melgo\sysarch\config\SecurityConfig.java
+D:\Documents\luizmelgo-dlmelgo-patch-1\luizmelgo-dlmelgo-patch-1\luizmelgo-master\sysarch\src\main\java\com\melgo\sysarch\controller\BangkaController.java
+D:\Documents\luizmelgo-dlmelgo-patch-1\luizmelgo-dlmelgo-patch-1\luizmelgo-master\sysarch\src\main\java\com\melgo\sysarch\config\SwaggerConfig.java
+D:\Documents\luizmelgo-dlmelgo-patch-1\luizmelgo-dlmelgo-patch-1\luizmelgo-master\sysarch\src\main\java\com\melgo\sysarch\repository\UserRepository.java
+D:\Documents\luizmelgo-dlmelgo-patch-1\luizmelgo-dlmelgo-patch-1\luizmelgo-master\sysarch\src\main\java\com\melgo\sysarch\SysarchApplication.java
+D:\Documents\luizmelgo-dlmelgo-patch-1\luizmelgo-dlmelgo-patch-1\luizmelgo-master\sysarch\src\main\java\com\melgo\sysarch\service\UserService.java
+D:\Documents\luizmelgo-dlmelgo-patch-1\luizmelgo-dlmelgo-patch-1\luizmelgo-master\sysarch\src\main\java\com\melgo\sysarch\controller\UserController.java
+D:\Documents\luizmelgo-dlmelgo-patch-1\luizmelgo-dlmelgo-patch-1\luizmelgo-master\sysarch\src\main\java\com\melgo\sysarch\model\Bangka.java
+D:\Documents\luizmelgo-dlmelgo-patch-1\luizmelgo-dlmelgo-patch-1\luizmelgo-master\sysarch\src\main\java\com\melgo\sysarch\repository\BangkaRepository.java
+D:\Documents\luizmelgo-dlmelgo-patch-1\luizmelgo-dlmelgo-patch-1\luizmelgo-master\sysarch\src\main\java\com\melgo\sysarch\model\User.java
+D:\Documents\luizmelgo-dlmelgo-patch-1\luizmelgo-dlmelgo-patch-1\luizmelgo-master\sysarch\src\main\java\com\melgo\sysarch\service\BangkaService.java
+D:\Documents\luizmelgo-dlmelgo-patch-1\luizmelgo-dlmelgo-patch-1\luizmelgo-master\sysarch\src\main\java\com\melgo\sysarch\dto\SignUpRequest.java
+D:\Documents\luizmelgo-dlmelgo-patch-1\luizmelgo-dlmelgo-patch-1\luizmelgo-master\sysarch\src\main\java\com\melgo\sysarch\dto\BangkaRequest.java

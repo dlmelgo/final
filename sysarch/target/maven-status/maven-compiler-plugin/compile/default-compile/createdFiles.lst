@@ -1,0 +1,16 @@
+com\melgo\sysarch\controller\BangkaController.class
+com\melgo\sysarch\model\User.class
+com\melgo\sysarch\repository\BangkaRepository.class
+com\melgo\sysarch\service\UserService.class
+com\melgo\sysarch\config\SecurityConfig.class
+com\melgo\sysarch\dto\LoginRequest.class
+com\melgo\sysarch\dto\SignUpRequest.class
+com\melgo\sysarch\service\BangkaService.class
+com\melgo\sysarch\repository\UserRepository.class
+com\melgo\sysarch\SysarchApplication.class
+com\melgo\sysarch\config\OpenApiConfig.class
+com\melgo\sysarch\config\SwaggerConfig.class
+com\melgo\sysarch\model\Bangka.class
+com\melgo\sysarch\config\MongoConfig.class
+com\melgo\sysarch\controller\UserController.class
+com\melgo\sysarch\dto\BangkaRequest.class
